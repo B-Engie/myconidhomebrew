@@ -6,11 +6,11 @@
 		<update version="1.0">
 			<!-- 
 		    -->
-			<file name="myconid.xml" url="https://raw.githubusercontent.com/B-Engie/slime-folk-homebrew/main/slimefolk.xml"/>
+			<file name="myconid.xml" url="https://raw.githubusercontent.com/B-Engie/myconidhomebrew/main/myconid.xml"/>
 		</update>
 	</info>
 	
-	<element name="Myconid" type="race" source="Wiki" id="ID_WIKI_MYCONID">
+	<element name="Myconid" type="Race" source="Wiki" id="ID_WIKI_MYCONID">
 		<description>
 			<p class="flavor">
 				<i>
