@@ -3,8 +3,10 @@
 	<info>
 		<name>Myconid</name>
 		<author url="https://www.dandwiki.com/wiki/Myconid_(5e_Race)">Wiki</author>
-		<update version="1.0">
-			<!---->
+		<update version="1.1">
+			<!--
+			JUST TRYING TO FIGURE IT OUT
+			-->
 			<file name="myconid.xml" url="https://raw.githubusercontent.com/B-Engie/myconidhomebrew/main/myconid.xml"/>
 		</update>
 	</info>
@@ -73,7 +75,7 @@
 			</p>
 			<p class="indent">
 				<strong>
-					<em>Superior Darkvision</em>
+					<em>Superior Darkvision.</em>
 				</strong>
 				Accustomed to the darkness of the underdark, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern colours in darkness, only shades of grey.
 			</p>
@@ -110,7 +112,10 @@
 		</description>
 		<sheet display="false" />
 		<setters>
-			<set name="names">
+			<set name="names" type="male">
+				Jamar, Marly, Hendrix, Jenika, Manson, Psyllie, Psybie
+			</set>
+			<set name="names" type="female">
 				Jamar, Marly, Hendrix, Jenika, Manson, Psyllie, Psybie
 			</set>
 			<set name="names-format">{{name}}</set>
