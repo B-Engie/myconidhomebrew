@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>
+			Wiki
+		</name>
+		<update version="1.0">
+			<file name="myconid.index" url="https://raw.githubusercontent.com/B-Engie/myconidhomebrew/main/myconid.index"/>
+			<!--
+			-->
+		</update>
+	</info>
+	<files>
+		<file name="myconid.xml" url="https://raw.githubusercontent.com/B-Engie/myconidhomebrew/main/myconid.xml"/>
+		<file name="myconidsource.xml" url="https://raw.githubusercontent.com/B-Engie/myconidhomebrew/main/myconidsource.xml"/>
+	</files>
+</index>

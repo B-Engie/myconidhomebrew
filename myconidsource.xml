@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<elements>
+	<info>
+		<update version="1.0">
+			<file name="myconidsource.xml" url="https://raw.githubusercontent.com/B-Engie/myconidhomebrew/main/myconidsource.xml"/>
+		</update>
+	</info>
+	<element name="Wiki" type="Source" source="Third Party" id="ID_HOMEBREW_SOURCE_WIKI">
+		<description>
+		</description>
+		<setters>
+			<set name="abbreviation">WIKI</set>
+			<set name="url">https://www.dandwiki.com/wiki/Myconid_(5e_Race)</set>
+			<set name="author" url="https://www.dandwiki.com/wiki/Main_Page">Wiki</set>
+			<set name="homebrew">true</set>
+		</setters>
+	</element>
+</elements>
