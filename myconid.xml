@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <elements>
 	<info>
 		<name>Myconid</name>
@@ -6,7 +6,7 @@
 		<update version="1.0">
 			<!-- 
 		    -->
-			<file name="myconid.xml" url="https://raw.githubusercontent.com/B-Engie/myconidhomebrew/main/myconid.xml"/>
+			<file name="myconid.xml" url="https://raw.githubusercontent.com/B-Engie/slime-folk-homebrew/main/slimefolk.xml"/>
 		</update>
 	</info>
 	
@@ -114,7 +114,7 @@
 			<set name="weight" modifier="1d4">20 lb.</set>
 		</setters>
 		<rules>
-			<stat name="constitution" value="2" requirements="!ID_GRANTS_SLIME_FOLK_SUBRACE" />
+			<stat name="constitution" value="2" />
 			<stat name="innate speed" value="25" bonus="base" />
 			<grant type="Size" id="ID_SIZE_MEDIUM" />
 			<grant type="Vision" id="ID_VISION_DARKVISION" />
