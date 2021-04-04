@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
 		<name>Myconid</name>
@@ -6,7 +6,7 @@
 		<update version="1.0">
 			<!-- 
 		    -->
-			<file name="myconid.xml" url="https://raw.githubusercontent.com/B-Engie/slime-folk-homebrew/main/slimefolk.xml"/>
+			<file name="myconid.xml" url="https://raw.githubusercontent.com/B-Engie/myconidhomebrew/main/myconid.xml"/>
 		</update>
 	</info>
 	
